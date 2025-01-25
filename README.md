@@ -66,30 +66,4 @@ The game can be saved and resumed:
 ### Beautiful Interface
 The interface displays scores and game progress in a clear, intuitive manner.
 
-### Images from Java Program
-
-#### First roll showing who goes first
-![Main Menu](images/Picture1.png)
-
-#### Showing Computer going for Five Straight and filling the appropriate category and human’s turn after computer’s.
-![Main Menu](images/Picture2.png)
-
-#### Manual entry of the dice and showing potential categories based on the dice combination. Also displays the option for human to ask for help.
-![Main Menu](images/Picture3.png)
-
-#### When user says yes, computer provides help and asks if the user wants to stand or not.
-![Main Menu](images/Picture4.png)
-
-#### Loading a saved game. The player with less scores goes first. 
-![Main Menu](images/Picture5.png)
-
-#### Human fills the scorecard and program asks to save the game.
-![Main Menu](images/Picture6.png)
-
-#### Manually input the dice values for computer, computer filling category, displaying scorecard, and asking to save the game or not.
-![Main Menu](images/Picture7.png)
-
-#### When all the categories are filled, the tournament ends displaying who won the game
-![Main Menu](images/Picture8.png)
-
 
