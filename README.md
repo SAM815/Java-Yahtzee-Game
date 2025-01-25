@@ -66,7 +66,7 @@ The game can be saved and resumed:
 ### Beautiful Interface
 The interface displays scores and game progress in a clear, intuitive manner.
 
-### Images from Prolog Program
+### Images from Java Program
 
 #### First roll showing who goes first
 ![Main Menu](images/Picture1.png)
